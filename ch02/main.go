@@ -6,6 +6,7 @@ import (
 	"strings"
 )
 
+//基础数据类型
 func main() {
 	var i int = 10
 

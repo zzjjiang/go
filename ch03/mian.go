@@ -2,6 +2,9 @@ package main
 
 import "fmt"
 
+/*
+	if switch for
+*/
 func main() {
 	//if
 	i := 6
